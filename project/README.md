@@ -1,4 +1,4 @@
-# webcam_detectorjs
+# Webcam_detectorjs
 
 Webcam_detectorj is a barcode-scanner implementing Quaggajs library entirely written in JavaScript supporting real- time localization and decoding of various types of barcodes such as EAN CODE 128 and UPC-A The library is also capable of using getUserMedia to get direct access to the user's camera stream. Although the code relies on heavy image- processing even recent smartphones are capable of locating and decoding barcodes in real-time.
 
@@ -10,7 +10,7 @@ This is not yet another port of the great zxing library, but more of an extensio
 
 Cuurently, there is no equivalence of famous Zxing library in javascript but some projects try to reproduce this concept :  https://github.com/wojciechszela/zxingjs
 
-# others projects on Quaggasjs
+# Others projects on Quaggasjs
 
  * https://github.com/serratus/quaggaJS
 
