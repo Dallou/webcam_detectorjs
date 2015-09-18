@@ -10,7 +10,8 @@ This is not yet another port of the great zxing library, but more of an extensio
 # Zxingsjs is comming soon
 
 Cuurently, there is no equivalence of famous Zxing library in javascript but some projects try to reproduce this concept : https://github.com/wojciechszela/zxingjs
-Others projects on Quaggasjs
 
-    https://github.com/serratus/quaggaJS
+#Others projects on Quaggasjs
+
+* https://github.com/serratus/quaggaJS
 
