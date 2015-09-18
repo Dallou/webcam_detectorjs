@@ -8,9 +8,9 @@ An extension on zxing library
 ![ScreenShot](https://raw.github.com/Dallou/webcam_detectorjs/master/project/img/detection.png)
 
 
-For a better detection, you can change the parameters: 
+For a better detection, you can change the parameters options: 
 
-    ![ScreenShot](https://raw.github.com/Dallou/webcam_detectorjs/master/project/img/params.png)
+![ScreenShot](https://raw.github.com/Dallou/webcam_detectorjs/master/project/img/params.png)
 
 # An extension of Zxing 
 
