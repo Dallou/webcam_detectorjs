@@ -7,7 +7,7 @@ An extension on zxing library
 
 ![ScreenShot](https://raw.github.com/Dallou/webcam_detectorjs/master/project/img/detection.png)
 
-![ScreenShot](https://raw.github.com/Dallou/webcam_detectorjs/master/project/img/paramètres.png)
+![ScreenShot](https://raw.github.com/Dallou/webcam_detectorjs/master/project/img/params.png)
 
 # An extension of Zxing 
 
